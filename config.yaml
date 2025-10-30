@@ -21,9 +21,11 @@ text:
     
     感谢你的理解与支持！😊
 
-maintenance:
+notice:
+  # 是否启用
   enabled: false
-  redirect_url: *SITE
+  # 是否强制显示
+  force: false
   title: '🛠️ 系统维护公告'
   content: |
     为了提供更好的服务，我们将于 **2025年11月1日 02:00-04:00（北京时间）** 进行系统升级维护。
