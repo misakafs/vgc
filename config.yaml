@@ -42,7 +42,7 @@ versions:
     channel: ''
     min_version: '1.0.0'
     latest_version: '2.0.0'
-    update_url: *SITE
+    update_url: ''
     update_msg: &MSG |
       **发布于 2025年10月29日**
       
