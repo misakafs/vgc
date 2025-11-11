@@ -1,5 +1,6 @@
 env: prod
 net:
+  secret: 'xwxmzB82TGa8JKLFm3SR5rHAATB5wYda'
   base_url: 'https://m1.apifoxmock.com/m1/6957899-6675043-default'
 link:
   site: &SITE 'https://flutter.cn'
